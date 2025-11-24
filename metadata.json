@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Browser",
+  "description": "A next-generation browser interface powered by Gemini. Features AI-grounded search, offline capabilities, and a tabbed browsing experience.",
+  "requestFramePermissions": []
+}
